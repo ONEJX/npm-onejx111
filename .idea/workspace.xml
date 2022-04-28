@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3e5b1f5-04ec-4d73-96d4-c3407a4dc2da" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28N1yAiLHjBtbT5tyumbXsK0Bgg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="D:\Tool\WebStorm\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e5b1f5-04ec-4d73-96d4-c3407a4dc2da" name="默认更改列表" comment="" />
+      <created>1651042485835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651042485835</updated>
+      <workItem from="1651042504551" duration="4445000" />
+      <workItem from="1651052359307" duration="5000" />
+      <workItem from="1651076752546" duration="3402000" />
+      <workItem from="1651116708968" duration="1036000" />
+      <workItem from="1651118619622" duration="3188000" />
+      <workItem from="1651136478934" duration="14855000" />
+      <workItem from="1651157138435" duration="469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="120" key="#JavaScript" timestamp="1651150512003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="120" key="#JavaScript/0.0.1536.824@0.0.1536.824" timestamp="1651150512003" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651042663889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1651042663889" />
+    <state x="813" y="243" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1651141292987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="813" y="243" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824@0.0.1536.824" timestamp="1651141292987" />
+    <state x="663" y="0" key="CommitChangelistDialog2" timestamp="1651157462468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="663" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1651157462468" />
+    <state x="864" y="217" key="FileChooserDialogImpl" timestamp="1651141118399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="864" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651141118399" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1651080059367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651080059367" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1651080059367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651080059367" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1651080059367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651080059367" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1651080059367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651080059367" />
+    <state x="510" y="109" key="SettingsEditor" timestamp="1651141329109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651141329109" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1651077385601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1651077385601" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
